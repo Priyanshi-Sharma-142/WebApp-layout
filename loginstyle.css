@@ -1,0 +1,24 @@
+*{
+    background-color: linear-gradient(#9e4679,#05233b);
+ }
+ .box{
+    margin: auto; 
+    width: 50%;
+   
+    padding: 10px;
+    top: 50%;
+    left: 60%;
+
+}
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  h2{
+    padding: 50px 50px ;
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
